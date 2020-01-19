@@ -1,4 +1,7 @@
 elephant
 tiger
 lion
+snake
+monkey
+
 
